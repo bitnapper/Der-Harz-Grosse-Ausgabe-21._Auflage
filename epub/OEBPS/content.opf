@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" prefix="calibre: https://calibre-ebook.com" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Der Harz</dc:title>
+    <dc:language>de-DE</dc:language>
+    <dc:identifier id="BookId">uuid:505aa441-1457-4f3f-83b4-1bd98566a8d6</dc:identifier>
+    <dc:date>2025-05-11</dc:date>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta name="Sigil version" content="2.6.2"/>
+    <meta name="cover" content="cover"/>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2026-04-13T16:14:38Z</meta>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="x97333265-a67f-45a3-8d92-1f09564d9925" href="Text/map.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1b3eb5e3-b2e2-445b-83e7-6c4e0836051e" href="Text/halftitlee.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x46f0776f-b595-46c9-8663-1417d53dbd95" href="Text/MeyersReisebuecher.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x46ae27be-cbe8-43b6-9d29-dd665d323b11" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Foreword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xf1c73eae-fa2d-412c-9608-4efb47032314" href="Text/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/chap001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4d48aabb-0c88-41be-92da-48741c52d598" href="Text/chap002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0cf6805c-bdf0-43c5-b91f-f16b0c3c2fdd" href="Text/chap003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0020.xhtml" href="Text/chap004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/chap005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/chap006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/chap007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/chap008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/chap009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/chap010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/chap011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/chap012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/chap013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0013.xhtml" href="Text/chap014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/chap015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0015.xhtml" href="Text/chap016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0016.xhtml" href="Text/chap017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0017.xhtml" href="Text/chap018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0018.xhtml" href="Text/chap019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chap020.xhtml" href="Text/chap020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xa692b3b1-d91f-4295-b1a4-d886b87079b3" href="Text/chap021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x243ae71f-4544-44d2-83e1-73bdfdc43a29" href="Text/chap022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x71ce5cf5-f765-4dbd-9691-750daedd5f71" href="Text/chap023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4d78c327-0a4f-4262-8433-c53b03688c0f" href="Text/chap024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5f02875e-165d-4a7c-9ac9-703f0cb2a9eb" href="Text/chap025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x444a9a04-5ec9-4b95-a4ce-dba2978ac34d" href="Text/chap026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6548583d-1bea-4f27-a688-deb821bacf3b" href="Text/chap027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x34929475-1fc2-4ff5-9d72-068c60e1da65" href="Text/chap028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28d7ac7b-3ffc-4445-9b24-f2a773c31bd5" href="Text/chap029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xe24929e2-f82a-430b-a69b-5f6109f818cc" href="Text/chap030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5af4845e-37fe-4636-9b59-4fa3353bf57a" href="Text/chap031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10769288-db49-43b7-b592-c99d128d7707" href="Text/chap032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6e03b22c-84b0-4c02-970d-d74b9a6d9db2" href="Text/chap033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xf8475768-d45e-4112-9494-afb98be2d4c4" href="Text/chap034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x888a375c-ec9a-4d0b-bff6-d07cb0ce7055" href="Text/chap035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xef4c1693-b0e7-445e-9c71-c66e429ae816" href="Text/chap036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xbad82fcc-f1f3-45a3-b338-14585dafe1f5" href="Text/chap037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0555ed2a-17c0-4450-9cb7-743bf2685b8f" href="Text/chap038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xfb7f0a72-1828-423f-82c3-d1f9f2368e66" href="Text/chap039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x55004dce-161b-42e5-b503-d5faaee301fd" href="Text/chap040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x02fd9a10-6bfa-4e46-b14d-567b31a212be" href="Text/chap041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xab70a33f-a01c-4340-ae44-e8ff067eff21" href="Text/chap042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x018f43a1-d0b3-4273-bb25-d14ace50fbf9" href="Text/chap043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x294d0a48-bd98-4c3c-805d-a7433c6353ae" href="Text/chap044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x72ca599d-1fdf-461c-b9a7-c24eb9b0f282" href="Text/chap045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4948630f-dd5c-4f81-a0a3-4e1b96433cf2" href="Text/chap046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x093e1adb-e609-46e3-9a86-56655300973c" href="Text/chap047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03c0cfbc-e138-4277-a13d-017fd091de6d" href="Text/chap048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xfeedec73-0308-421c-9c0a-cdc89a52237c" href="Text/chap049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x67f52c0e-cfe1-4e3b-bafe-00fee592bef2" href="Text/chap050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x29a24c04-e10b-4423-93e0-f1c6f065f158" href="Text/chap051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xf818e081-48a5-450e-83ba-dc4ecbbb8bf5" href="Text/chap052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7676a620-6aac-412f-9809-6f965c568375" href="Text/chap053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xc9475093-ceed-4a55-99eb-f7253364e2b3" href="Text/chap054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xb127d021-c4fa-49a0-9e7b-760199a6c340" href="Text/chap056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3f5a689c-1969-46bf-a639-3f22e0d533b1" href="Text/chap057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x8d153e68-16dc-48db-ae6d-57a6cf047436" href="Text/chap058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9115b867-60b6-4dd2-a9cb-eef2bf2182a1" href="Text/chap059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x198e6e27-8c74-483f-bd7b-020eec07b618" href="Text/chap060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xbdd4b8a2-baff-4d45-94d9-34caa86d1aed" href="Text/chap061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18320830-dfb6-4cee-b648-0104539dbe37" href="Text/chap062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7f6eb339-3629-4822-8f5a-26153df80f08" href="Text/chap063.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xda369efe-2dd5-4120-9b58-960d6b94ab50" href="Text/addr0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xd0106b44-555a-4336-b7be-a884eb48da66" href="Text/meyersbuecher.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xe2f597b2-5c7d-4dec-9f13-2bd918549a5a" href="Text/addr1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2cea007b-b27b-4a94-af1a-0e4978276a0e" href="Text/register.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xb8f639d5-9863-4fec-8204-0920b0e48fd0" href="Text/map01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xd57c7cc2-a755-442d-b0e2-f55358d56ec2" href="Text/map03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xf7013fef-1e3a-45ae-afa8-cf8e41fe975f" href="Text/map04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xd56c47f5-0224-457c-96bc-538e48318d22" href="Text/map05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x58618d5e-4f43-483f-a9a9-d4a1a1728562" href="Text/map06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xaf2c32fb-66a4-4822-bd9a-ffed71279b5f" href="Text/map07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x55f8e044-2a21-4354-ab52-a105e5f4b78f" href="Text/map08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x886266b0-fe08-4591-a9a7-25af76f1c1e7" href="Text/map09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x93735bae-faa1-4ca1-a5e3-f4c3332ccda2" href="Text/map10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4553f7bc-c882-4c65-90a0-7756494d10ed" href="Text/map11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x064259b8-582f-4778-8633-f90ab66ea440" href="Text/map12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xa36767ba-e85e-4f9c-b8ad-e0b7ee4e84a0" href="Text/map13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xe8553917-4d32-4d34-8ab5-9d40d3d7eb9d" href="Text/map14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9a7ef4f7-b1db-4b3e-b209-2afb0cfd1fa5" href="Text/map15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xcb4e5a79-2192-4cea-8511-fe8caf3c08e8" href="Text/map16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x96c2fd94-b31c-4c3a-abb9-576d16ed54ab" href="Text/map17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5aa51fdc-2947-4daa-8d13-7f820081d505" href="Text/map18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2ab44b38-6705-4a80-9977-a829d180fc9d" href="Text/map19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x628db26c-b8ab-467b-b60e-21f56c5e1d5a" href="Text/map20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7e8976d0-498c-4aa5-aeea-50c777418d71" href="Text/map21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x55195b7b-ad1a-4cf9-b1aa-1e82a5f804e1" href="Text/map22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x804455b5-b433-434d-8429-811a2f79b7ca" href="Text/map23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x84795343-0131-466b-be05-99901bcb3cc4" href="Text/map24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xaf30f7d9-4a84-4b3d-9ca3-a7fef83280c0" href="Text/map25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xfb6d90a7-07a9-4365-88ff-7cb5e18a504b" href="Text/map26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0dcd15e2-190d-46d9-8a6b-b8b878b0f16d" href="Text/map27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Index.xhtml" href="Text/Index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="../nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="Style0002.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="arrow.svg" href="Images/arrow.svg" media-type="image/svg+xml"/>
+    <item id="cover" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Der_Harz.png" href="Images/map01_DerHarz.png" media-type="image/png"/>
+    <item id="Geologische_Karte_des_Harzes.png" href="Images/map02_Geologische_Karte_des_Harzes.png" media-type="image/png"/>
+    <item id="Halberstadt_aus_Meyers_Reisebucher.png" href="Images/map03_Halberstadt_Stadtplan.png" media-type="image/png"/>
+    <item id="Stadtplan_von_Quedlinburg.png" href="Images/map04_Quedlinburg_Stadtplan.png" media-type="image/png"/>
+    <item id="Plan_von_Hildesheim.png" href="Images/map05_Hildesheim_Stadtplan.png" media-type="image/png"/>
+    <item id="Bodetal_-_Thale_und_Umgebung.png" href="Images/map06_Bodetal.png" media-type="image/png"/>
+    <item id="Umgebung_von_Blankenburg.png" href="Images/map07_Blankenburg_Umgebung.png" media-type="image/png"/>
+    <item id="Elbingerode_--_Schirke_--_Tanne.png" href="Images/map08_Elbingerode_Schirke_Tanne.png" media-type="image/png"/>
+    <item id="Grundriss_der_Hermannshohle_bei_Rubeland.png" href="Images/map09_Hermannshöhle.png" media-type="image/png"/>
+    <item id="Schierke_aus_Meyers_Reisebucher.png" href="Images/map10_Schierke.png" media-type="image/png"/>
+    <item id="map11_Brocken.png" href="Images/map11_Brocken.png" media-type="image/png"/>
+    <item id="map12_Wernigerode_Umgebung.png" href="Images/map12_Wernigerode_Umgebung.png" media-type="image/png"/>
+    <item id="map014_StAndreasberg_Braunlage.png" href="Images/map14_StAndreasberg_Braunlage.png" media-type="image/png"/>
+    <item id="map15_Goslar_Stadtplan.png" href="Images/map15_Goslar_Stadtplan.png" media-type="image/png"/>
+    <item id="map16_Goslar_Umgebung.png" href="Images/map16_Goslar_Umgebung.png" media-type="image/png"/>
+    <item id="map17_Grund_Umgebung.png" href="Images/map17_Grund_Umgebung.png" media-type="image/png"/>
+    <item id="map18_Zellerfeld_Klausthal_Altenau.png" href="Images/map18_Zellerfeld_Klausthal_Altenau.png" media-type="image/png"/>
+    <item id="map19_Herzberg_Lauterberg_Sachsa.png" href="Images/map19_Herzberg_Lauterberg_Sachsa.png" media-type="image/png"/>
+    <item id="map19_Nordhausen_Stadtplan.png" href="Images/map19_Nordhausen_Stadtplan.png" media-type="image/png"/>
+    <item id="map21_Kyffhauser.png" href="Images/map21_Kyffhäuser.png" media-type="image/png"/>
+    <item id="map22_Ilfeld_Neustadt_Stolberg.png" href="Images/map22_Ilfeld_Neustadt_Stolberg.png" media-type="image/png"/>
+    <item id="map23_Suderode_Alexisbad.png" href="Images/map23_Suderode_Alexisbad.png" media-type="image/png"/>
+    <item id="map24_Panorama_vom_Brocken.png" href="Images/map24_Panorama_vom_Brocken.png" media-type="image/png"/>
+    <item id="map25_Routennetz.png" href="Images/map25_Routennetz.png" media-type="image/png"/>
+    <item id="Der_Harz_aus_Meyers_Reisebucher_Harz_21._Ausgabe_1912.png" href="Images/map26_ReisekarteVomHarz.png" media-type="image/png"/>
+    <item id="map27_Eisenbahnzugange.png" href="Images/map27_Eisenbahnzugänge.png" media-type="image/png"/>
+    <item id="Reiseplane_durch_den_Harz_2.png" href="Images/Reisepläne_durch_den_Harz_2.png" media-type="image/png"/>
+    <item id="Reiseplane_durch_den_Harz.png" href="Images/Reisepläne_durch_den_Harz.png" media-type="image/png"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="x97333265-a67f-45a3-8d92-1f09564d9925"/>
+    <itemref idref="x1b3eb5e3-b2e2-445b-83e7-6c4e0836051e"/>
+    <itemref idref="x46f0776f-b595-46c9-8663-1417d53dbd95"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="x46ae27be-cbe8-43b6-9d29-dd665d323b11"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="xf1c73eae-fa2d-412c-9608-4efb47032314"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="x4d48aabb-0c88-41be-92da-48741c52d598"/>
+    <itemref idref="x0cf6805c-bdf0-43c5-b91f-f16b0c3c2fdd"/>
+    <itemref idref="Section0020.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+    <itemref idref="Section0016.xhtml"/>
+    <itemref idref="Section0017.xhtml"/>
+    <itemref idref="Section0018.xhtml"/>
+    <itemref idref="chap020.xhtml"/>
+    <itemref idref="xa692b3b1-d91f-4295-b1a4-d886b87079b3"/>
+    <itemref idref="x243ae71f-4544-44d2-83e1-73bdfdc43a29"/>
+    <itemref idref="x71ce5cf5-f765-4dbd-9691-750daedd5f71"/>
+    <itemref idref="x4d78c327-0a4f-4262-8433-c53b03688c0f"/>
+    <itemref idref="x5f02875e-165d-4a7c-9ac9-703f0cb2a9eb"/>
+    <itemref idref="x444a9a04-5ec9-4b95-a4ce-dba2978ac34d"/>
+    <itemref idref="x6548583d-1bea-4f27-a688-deb821bacf3b"/>
+    <itemref idref="x34929475-1fc2-4ff5-9d72-068c60e1da65"/>
+    <itemref idref="x28d7ac7b-3ffc-4445-9b24-f2a773c31bd5"/>
+    <itemref idref="xe24929e2-f82a-430b-a69b-5f6109f818cc"/>
+    <itemref idref="x5af4845e-37fe-4636-9b59-4fa3353bf57a"/>
+    <itemref idref="x10769288-db49-43b7-b592-c99d128d7707"/>
+    <itemref idref="x6e03b22c-84b0-4c02-970d-d74b9a6d9db2"/>
+    <itemref idref="xf8475768-d45e-4112-9494-afb98be2d4c4"/>
+    <itemref idref="x888a375c-ec9a-4d0b-bff6-d07cb0ce7055"/>
+    <itemref idref="xef4c1693-b0e7-445e-9c71-c66e429ae816"/>
+    <itemref idref="xbad82fcc-f1f3-45a3-b338-14585dafe1f5"/>
+    <itemref idref="x0555ed2a-17c0-4450-9cb7-743bf2685b8f"/>
+    <itemref idref="xfb7f0a72-1828-423f-82c3-d1f9f2368e66"/>
+    <itemref idref="x55004dce-161b-42e5-b503-d5faaee301fd"/>
+    <itemref idref="x02fd9a10-6bfa-4e46-b14d-567b31a212be"/>
+    <itemref idref="xab70a33f-a01c-4340-ae44-e8ff067eff21"/>
+    <itemref idref="x018f43a1-d0b3-4273-bb25-d14ace50fbf9"/>
+    <itemref idref="x294d0a48-bd98-4c3c-805d-a7433c6353ae"/>
+    <itemref idref="x72ca599d-1fdf-461c-b9a7-c24eb9b0f282"/>
+    <itemref idref="x4948630f-dd5c-4f81-a0a3-4e1b96433cf2"/>
+    <itemref idref="x093e1adb-e609-46e3-9a86-56655300973c"/>
+    <itemref idref="x03c0cfbc-e138-4277-a13d-017fd091de6d"/>
+    <itemref idref="xfeedec73-0308-421c-9c0a-cdc89a52237c"/>
+    <itemref idref="x67f52c0e-cfe1-4e3b-bafe-00fee592bef2"/>
+    <itemref idref="x29a24c04-e10b-4423-93e0-f1c6f065f158"/>
+    <itemref idref="xf818e081-48a5-450e-83ba-dc4ecbbb8bf5"/>
+    <itemref idref="x7676a620-6aac-412f-9809-6f965c568375"/>
+    <itemref idref="xc9475093-ceed-4a55-99eb-f7253364e2b3"/>
+    <itemref idref="xb127d021-c4fa-49a0-9e7b-760199a6c340"/>
+    <itemref idref="x3f5a689c-1969-46bf-a639-3f22e0d533b1"/>
+    <itemref idref="x8d153e68-16dc-48db-ae6d-57a6cf047436"/>
+    <itemref idref="x9115b867-60b6-4dd2-a9cb-eef2bf2182a1"/>
+    <itemref idref="x198e6e27-8c74-483f-bd7b-020eec07b618"/>
+    <itemref idref="xbdd4b8a2-baff-4d45-94d9-34caa86d1aed"/>
+    <itemref idref="x18320830-dfb6-4cee-b648-0104539dbe37"/>
+    <itemref idref="x7f6eb339-3629-4822-8f5a-26153df80f08"/>
+    <itemref idref="xda369efe-2dd5-4120-9b58-960d6b94ab50"/>
+    <itemref idref="xd0106b44-555a-4336-b7be-a884eb48da66"/>
+    <itemref idref="xe2f597b2-5c7d-4dec-9f13-2bd918549a5a"/>
+    <itemref idref="x2cea007b-b27b-4a94-af1a-0e4978276a0e"/>
+    <itemref idref="xb8f639d5-9863-4fec-8204-0920b0e48fd0"/>
+    <itemref idref="xd57c7cc2-a755-442d-b0e2-f55358d56ec2"/>
+    <itemref idref="xf7013fef-1e3a-45ae-afa8-cf8e41fe975f"/>
+    <itemref idref="xd56c47f5-0224-457c-96bc-538e48318d22"/>
+    <itemref idref="x58618d5e-4f43-483f-a9a9-d4a1a1728562"/>
+    <itemref idref="xaf2c32fb-66a4-4822-bd9a-ffed71279b5f"/>
+    <itemref idref="x55f8e044-2a21-4354-ab52-a105e5f4b78f"/>
+    <itemref idref="x886266b0-fe08-4591-a9a7-25af76f1c1e7"/>
+    <itemref idref="x93735bae-faa1-4ca1-a5e3-f4c3332ccda2"/>
+    <itemref idref="x4553f7bc-c882-4c65-90a0-7756494d10ed"/>
+    <itemref idref="x064259b8-582f-4778-8633-f90ab66ea440"/>
+    <itemref idref="xa36767ba-e85e-4f9c-b8ad-e0b7ee4e84a0"/>
+    <itemref idref="xe8553917-4d32-4d34-8ab5-9d40d3d7eb9d"/>
+    <itemref idref="x9a7ef4f7-b1db-4b3e-b209-2afb0cfd1fa5"/>
+    <itemref idref="xcb4e5a79-2192-4cea-8511-fe8caf3c08e8"/>
+    <itemref idref="x96c2fd94-b31c-4c3a-abb9-576d16ed54ab"/>
+    <itemref idref="x5aa51fdc-2947-4daa-8d13-7f820081d505"/>
+    <itemref idref="x2ab44b38-6705-4a80-9977-a829d180fc9d"/>
+    <itemref idref="x628db26c-b8ab-467b-b60e-21f56c5e1d5a"/>
+    <itemref idref="x7e8976d0-498c-4aa5-aeea-50c777418d71"/>
+    <itemref idref="x55195b7b-ad1a-4cf9-b1aa-1e82a5f804e1"/>
+    <itemref idref="x804455b5-b433-434d-8429-811a2f79b7ca"/>
+    <itemref idref="x84795343-0131-466b-be05-99901bcb3cc4"/>
+    <itemref idref="xaf30f7d9-4a84-4b3d-9ca3-a7fef83280c0"/>
+    <itemref idref="xfb6d90a7-07a9-4365-88ff-7cb5e18a504b"/>
+    <itemref idref="x0dcd15e2-190d-46d9-8a6b-b8b878b0f16d"/>
+    <itemref idref="Index.xhtml"/>
+  </spine>
+</package>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="26.554092mm" height="6.6094756mm" viewBox="0 0 26.554092 6.6094756" version="1.1" id="svg1">
+  <defs id="defs1">
+    <marker style="overflow:visible" id="ArrowTriangleStylized" refX="0" refY="0" orient="auto-start-reverse" markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+      <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z" id="path4"/>
+    </marker>
+    <marker style="overflow:visible" id="Dot" refX="0" refY="0" orient="auto" markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+      <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none" d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z" id="path17"/>
+    </marker>
+  </defs>
+  <g id="layer1" transform="translate(-57.5,-56.695262)">
+    <path style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#ArrowTriangleStylized)" d="M 60,60 H 80" id="path1"/>
+  </g>
+</svg>
