@@ -1,1 +1,3 @@
-# Der-Harz-Grosse-Ausgabe-21._Auflage
+# Der Harz — Große Ausgabe, 21. Auflage
+
+* [OpenLibrary]([url](https://openlibrary.org/works/OL15515060W/))
